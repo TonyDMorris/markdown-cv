@@ -7,17 +7,26 @@ Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> 
 </div>
 
 
-## Currently
+## About Me
+My name is Tony and I'm an avid programmer and proud father.
 
-Standing on the shoulders of giants
+After working in the automotive industry and retail for a number of years.  
+I decided to focus on something that has interested me for a long time.
 
-### Specialized in
+After learning to code in javascript and becoming well-versed in a number of different tools and technologies along the way, I have discovered that I am a proficient and expedient learner and am able to solve complicated problems using these tools.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Following my attendance at NorthCoders all I can think about is what I am going to learn next and that I can't wait to get started.
+
+
+## Experience
+`06/2019-Present`
+__Sport Pesa UK__
+
+> working on apis
 
 
 ### Research interests
